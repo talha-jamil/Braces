@@ -1,0 +1,96 @@
+
+.icon
+{
+    color: white;
+    display: inline-block;
+}
+.nv-bt
+{
+    padding: 10px;
+}
+
+.nav-color
+{
+    background-color: #7188BC;
+}
+.txt{
+    margin-top: 100px;
+}
+
+.image
+{
+    border-radius: 50%;
+}
+.img-cont
+{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.text-color
+{
+    color: white;
+}
+.main-nav
+{
+    margin-right: 0;
+}
+header
+{
+    color: #D1F3F9;
+    background-color: darkblue;
+    font-size: larger;
+    padding-bottom: 20px;
+    padding-top: 15px;
+    padding-left: 30px;
+}
+.topMargin
+{
+   margin-top: 100px;
+}
+
+.inputStyle
+{
+    border-radius: 8px;
+}
+.button
+{
+    width:100px;
+    background-color: darkblue;
+    color:white;
+    border:none;
+    text-align: center;
+    padding: 5px 10px;
+    display:inline-block;
+    margin:4px 2px;
+    cursor:pointer;
+}
+.carousel-item {
+    height: 100vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.log-cnt {
+    max-width: 500px;
+    align-content: center;
+}
+.logo{
+    margin-left: 50px;
+    font-size: 30px;
+    margin-right: 50px;
+}
+
+.div_hover {
+}
+
+.div_hover:hover {
+    background-color: #5371BB;
+}
+<!----------------------->
+
