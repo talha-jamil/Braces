@@ -98,7 +98,11 @@ header
 
 .div_hover {
 }
-
+.pointer
+{
+    cursor: pointer;
+    margin-left: 10px;
+}
 .div_hover:hover {
     background-color: #5371BB;
 }
