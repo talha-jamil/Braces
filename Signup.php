@@ -26,7 +26,7 @@
             </li>
             <li class="nav-item nv-bt">
                 <i class="fas fa-phone icon"></i>
-                <a class="nav-link icon div_hover" href="contact.html" style="color: white">Contact</a>
+                <a class="nav-link icon div_hover" href="contact.php" style="color: white">Contact</a>
             </li>
             <li class="nav-item nv-bt">
                 <i class="far fa-question-circle icon"></i>
@@ -37,7 +37,7 @@
         <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
             <li class="nav-item nv-bt">
                 <i class="fas fa-sign-in-alt icon"></i>
-                <a class="nav-link icon div_hover" href="index.html" style="color: white">Login</a>
+                <a class="nav-link icon div_hover" href="index.php" style="color: white">Login</a>
             </li>
 
         </ul>
@@ -48,11 +48,11 @@
     <div class="row">
         <div class="carousel-inner" role="listbox">
             <!-- Slide One - Set the background image for this slide in the line below -->
-            <div class="carousel-item active" style="background-image: url('images/forget-img.png')">
-        <div class="col-12" align="center" style="margin-top: 50px">
+            <div class="carousel-item active" style="background-image: url('images/login-img.jpg')">
+        <div class="col-6" align="center" style="margin-top: 50px">
             <form class="form-group log-cnt">
                 <div>
-                    <h4>Sign Up</h4>
+                    <h4 style="color: white">Sign Up</h4>
                 </div>
                 <div class="form-group">
                     <div class="row">
@@ -79,13 +79,13 @@
                 </div><br>
 
                 <div class="form-group">
-                    <label class="checkbox-inline"><input type="checkbox" required="required"> I accept the <a href="#">Terms of Use</a> &amp; <a href="#">Privacy Policy</a></label>
+                    <label class="checkbox-inline"><input type="checkbox" required="required"> I accept the <a href="#" style="color: white">Terms of Use</a> &amp; <a href="#" style="color: white">Privacy Policy</a></label>
                 </div>
                 <div class="form-group">
-                    <button type="submit" class="btn btn-primary btn-lg btn-block" style="background-color: #7188BC">Register Now</button>
+                    <button type="submit" class="btn btn-primary btn-lg btn-block" style="background-color: #0B668A">Register Now</button>
                 </div>
 
-                <div>Already have an account? <a href="index.html">Login</a> </div>
+                <div>Already have an account? <a href="index.php" style="color: white">Login</a> </div>
 
             </form>
         </div>

@@ -26,7 +26,7 @@
             </li>
             <li class="nav-item nv-bt">
                 <i class="fas fa-phone icon"></i>
-                <a class="nav-link icon div_hover" href="contact.html" style="color: white">Contact</a>
+                <a class="nav-link icon div_hover" href="contact.php" style="color: white">Contact</a>
             </li>
             <li class="nav-item nv-bt">
                 <i class="far fa-question-circle icon"></i>
@@ -37,12 +37,12 @@
         <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
             <li class="nav-item nv-bt">
                 <i class="fas fa-sign-in-alt icon"></i>
-                <a class="nav-link icon div_hover" href="index.html" style="color: white">Login</a>
+                <a class="nav-link icon div_hover" href="index.php" style="color: white">Login</a>
             </li>
 
             <li class="nav-item nv-bt">
                 <i class="fas fa-user-plus icon"></i>
-                <a class="nav-link icon div_hover" href="Signup.html" style="color: white">Sign Up</a>
+                <a class="nav-link icon div_hover" href="Signup.php" style="color: white">Sign Up</a>
             </li>
 
         </ul>
@@ -63,7 +63,7 @@
                             <i class="fas fa-envelope"></i>
                             <input type="email" name="email" id="mail" placeholder="Email" class="form-control-lg" required pattern=".+@ucp.edu.pk"><br>
                         </div>
-                            <input type="submit" class="btn-primary btn-lg" style="margin-top: 15px">
+                            <input type="submit" class="btn-primary btn-lg" style="margin-top: 15px ;background-color: #0B668A">
                     </form>
                 </div>
             </div>
