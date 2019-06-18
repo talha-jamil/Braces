@@ -1,4 +1,7 @@
 
+*{
+    font-family: 'Lora', serif;
+}
 a{
     cursor: pointer;
 }
@@ -91,8 +94,8 @@ header
     align-content: center;
 }
 .logo{
-    margin-left: 50px;
-    font-size: 30px;
+    margin-left: 40px;
+    font-size: 27px;
     margin-right: 50px;
 }
 
