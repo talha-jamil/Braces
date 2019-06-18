@@ -26,7 +26,7 @@
             </li>
             <li class="nav-item nv-bt">
                 <i class="fas fa-phone icon"></i>
-                <a class="nav-link icon div_hover" href="contact.html" style="color: white">Contact</a>
+                <a class="nav-link icon div_hover" href="contact.php" style="color: white">Contact</a>
             </li>
             <li class="nav-item nv-bt">
                 <i class="far fa-question-circle icon"></i>
@@ -38,7 +38,7 @@
 
             <li class="nav-item nv-bt">
                 <i class="fas fa-user-plus icon"></i>
-                <a class="nav-link icon div_hover" href="Signup.html" style="color: white">Sign Up</a>
+                <a class="nav-link icon div_hover" href="Signup.php" style="color: white">Sign Up</a>
             </li>
 
         </ul>
@@ -50,7 +50,7 @@
             <div class="carousel-inner" role="listbox">
                 <!-- Slide One - Set the background image for this slide in the line below -->
                 <div class="carousel-item active" style="background-image: url('images/login-img.jpg')">
-                    <div class="col-12 form-cls">
+                    <div class="col-6 form-cls">
                         <form class="form-group">
                             <div>
                                 <img src="images/logo.png">
@@ -62,14 +62,14 @@
                             <div style="padding: 20px">
                                 <i class="fas fa-lock text-color"></i>
                                 <input class="form-control-lg" placeholder="Password" name="password" required><br>
-                                <br><a href="forgetPassword.html" class="text-color">Forgot password? </a>
+                                <br><a href="forgetPassword.php" class="text-color">Forgot password? </a>
                             </div>
                             <div style="padding: 10px">
-                                <input type="submit" value="Login" class="btn btn-primary" style="background-color: #7188BC">
+                                <input type="submit" value="Login" class="btn btn-primary" style="background-color: #0B668A">
                             </div>
                             <div class="text-color">
                                 Don't have an account ?
-                                <a href="Signup.html" class="text-color"> Sign Up </a>
+                                <a href="Signup.php" class="text-color"> Sign Up </a>
                             </div>
                         </form>
                     </div>
