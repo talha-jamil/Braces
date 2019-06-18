@@ -52,9 +52,7 @@
                 <div class="carousel-item active" style="background-image: url('images/login-img.jpg')">
                     <div class="col-6 form-cls">
                         <form class="form-group">
-                            <div>
-                                <img src="images/logo.png">
-                            </div>
+                            <div><h3 style="color: white">Login</h3></div>
                             <div style="padding: 15px">
                                 <i class="fas fa-envelope-square text-color" ></i>
                                 <input class="form-control-lg" type="email" placeholder="Email" name="email" required pattern = ".+@ucp.edu.pk">
